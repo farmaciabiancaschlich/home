@@ -2,7 +2,7 @@
 	{
 		height: 100%;
 	}
-	
+	@media screen and (max-width 481px) {
 	body
 	{
 		margin: 0px;
@@ -604,3 +604,4 @@ margin-bottom: 8em;
 		font-size: 1.2em;
 		color: #FFF;
 	}
+}
