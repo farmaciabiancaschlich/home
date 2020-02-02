@@ -51,7 +51,6 @@ html, body
 		font-size: 36pt;
 		color: #8dc63f;
 		text-align: center;
-		margin-left: 24em;
 	}
 
 	p, ol, ul
@@ -253,11 +252,12 @@ select.form-control:not([size]):not([multiple]){
 
 
 /*********************************************************************************/
-/* Immagini - banner                                                             */
+/* Image Style                                                                   */
 /*********************************************************************************/
 .banner2 img
 	{
 		width: 100%;
+		margin-top: 0em;
 		display: block;
 	}
 .banner
