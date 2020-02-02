@@ -74,7 +74,7 @@ html, body
 		color: #8dc63f;
 		position: absolute;
   		top: 50%;
-  		left: 50%;
+  		left: 70%;
   transform: translate(-50%, -50%);
 }
 	ol, ul
@@ -257,12 +257,13 @@ select.form-control:not([size]):not([multiple]){
 .banner2 img
 	{
 		width: 100%;
-		margin-top: 0em;
+		margin-left: 6em;
 		display: block;
 	}
 .banner
 {
 	width: 100%;
+	margin-left: 6em;
 	display: inline-block;
 }
 	.image
