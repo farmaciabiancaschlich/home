@@ -29,7 +29,7 @@ html, body
 		margin-bottom: -1.5em;
 		color: #8dc63f;
 		font-size: 28pt;
-		margin-left: 24em;
+		margin-left: 28em;
 		background-color: #ffffff;
 	}
 	h5
@@ -259,7 +259,7 @@ select.form-control:not([size]):not([multiple]){
 .banner2 img
 	{
 		width: 100%;
-		margin-right: 12em;
+		margin-left: 28em;
 		display: block;
 	}
 .banner
