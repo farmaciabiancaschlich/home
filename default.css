@@ -258,7 +258,7 @@ select.form-control:not([size]):not([multiple]){
 .banner2 img
 	{
 		width: 100%;
-		margin-left: 28em;
+		margin-left: 20em;
 		display: block;
 	}
 .banner
