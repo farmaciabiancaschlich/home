@@ -30,6 +30,8 @@ html, body
 		color: #8dc63f;
 		font-size: 28pt;
 		background-color: #ffffff;
+		margin-right=auto;
+		margin-left=auto;
 	}
 	h5
 	{
@@ -47,6 +49,8 @@ html, body
 	}
 	h6
 	{
+		margin-right=auto;
+		margin-left=auto;
 		margin-top: 1em;
 		font-size: 36pt;
 		color: #8dc63f;
