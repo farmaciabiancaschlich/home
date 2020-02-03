@@ -2,7 +2,10 @@ html, body
 	{
 		height: 100%;
 	}
-	
+	@media only screen and (max-width: 768px) {
+		.intro {   width: 100%; }
+		.banner2 {widht:100%}
+						}
 	body
 	{
 		margin: 0px;
