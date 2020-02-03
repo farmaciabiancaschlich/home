@@ -74,6 +74,8 @@ html, body
 }
 	.intro
 	{
+		margin-right=auto;
+		margin-left=auto;
 		text-align: center;
 		color: #8dc63f;
 		position: absolute;
@@ -260,6 +262,8 @@ select.form-control:not([size]):not([multiple]){
 /*********************************************************************************/
 .banner2 img
 	{
+		margin-right=auto;
+		margin-left=auto;
 		width: 100%;
 		margin-top: 0em;
 		display: block;
