@@ -3,9 +3,11 @@ html, body
 		height: 100%;
 	}
 	@media only screen and (max-width: 768px) {
-		.intro {   width: 100%;
+		h2 
+		{width: 100%;
 		text-align: center;}
-		.banner2 {widht:1800px		}
+		h6{width: 100%; text-align: center;}
+		.banner2 img {widht:100%}
 						}
 	body
 	{
