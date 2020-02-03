@@ -550,7 +550,7 @@ select.form-control:not([size]):not([multiple]){
 	position: absolute;
 	color: #000000;
 }
-.social2
+.bench
 {width: 80px;
 	height: 80px;
 	line-height: 80px;
@@ -561,7 +561,7 @@ select.form-control:not([size]):not([multiple]){
 	float: right;
 		
 }
-.social2 p
+.bench p
 {
 	font-size: 12pt;
 	font-family: 'Source Sans Pro', sans-serif;
