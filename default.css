@@ -3,11 +3,10 @@ html, body
 		height: 100%;
 	}
 	@media only screen and (max-width: 768px) {
-		h2 
+		body 
 		{width: 100%;
 		text-align: center;}
-		h6{width: 100%; text-align: center;}
-		.banner2 img {widht:100%}
+	
 						}
 	body
 	{
