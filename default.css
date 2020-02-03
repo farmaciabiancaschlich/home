@@ -137,6 +137,21 @@ html, body
 {	margin-top: 8em;
 	text-align: center;
 	}	
+
+.others img
+{
+	margin-top: 7em;
+	margin-left: 20em;
+	width: 50%;
+	margin-bottom: -4em;
+}
+
+footer .others
+{
+	margin-top: 7em;
+	margin-bottom: 8em;
+}
+
 	/****************************/
 	/*CONTATTI
 	/****************************/
